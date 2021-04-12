@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# Tech Stack
+
 # 🌱 I’m currently learning ...
   - C language
   - Java
