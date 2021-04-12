@@ -1,6 +1,6 @@
 <div align = center>
 
-### Hi there 👋 I'm junior developer whitebear!
+## Hi there 👋 I'm junior developer whitebear!
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wbear05@dgsw.hs.kr)](mailto:wbear05@dgsw.hs.kr)
 
