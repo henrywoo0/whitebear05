@@ -32,14 +32,10 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 
+<br><br><br>
+</div>
+
 # 🌱 I’m currently learning ...
-
-
-
-
-
-
-
   - C language
   - Java
   - Python
@@ -48,4 +44,4 @@ Here are some ideas to get you started:
   - JavaScript
   - Node.js
 
-</div>
+
