@@ -34,7 +34,11 @@ Here are some ideas to get you started:
 
 # 🌱 I’m currently learning ...
 
-</div>
+
+
+
+
+
 
   - C language
   - Java
@@ -43,3 +47,5 @@ Here are some ideas to get you started:
   - CSS
   - JavaScript
   - Node.js
+
+</div>
