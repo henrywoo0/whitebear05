@@ -7,7 +7,7 @@
 <a href="mailto:wjs050518@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=wjs050518@gmail.com"/></a>
 </p>
 
-[![whitebear's github stats](https://github-readme-stats.vercel.app/api?username=whitebear05&theme=vue&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![whitebear's github stats](https://github-readme-stats.vercel.app/api?username=whitebear05&theme=vue&show_icons=true&hide_border=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whitebear05&theme=vue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
 
