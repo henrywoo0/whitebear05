@@ -6,6 +6,7 @@
 <a href="https://www.instagram.com/wbear_thelayer/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/wbear_thelayer/"/></a>&nbsp
 <a href="mailto:wjs050518@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=wjs050518@gmail.com"/> </a>
 <a href="https://white-world.tistory.com/"><img src="http://img.shields.io/badge/Tistory-2d3436?style=flat-square&logo=Tistory&logoColor=white&link=https://white-world.tistory.com/"/></a>&nbsp
+<a href="https://blog.naver.com/woojs0505/"><img src="http://img.shields.io/badge/NAVER Blog-27ae60?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/woojs0505"/></a>&nbsp
 </p>
 
 
