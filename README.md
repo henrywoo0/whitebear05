@@ -6,9 +6,8 @@
 <a href="https://www.instagram.com/wbear_thelayer/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/wbear_thelayer/"/></a>&nbsp
 <a href="https://white-world.tistory.com/"><img src="http://img.shields.io/badge/Tistory-2d3436?style=flat-square&logo=Tistory&logoColor=white&link=https://white-world.tistory.com/"/></a>&nbsp
 <a href="https://blog.naver.com/woojs0505/"><img src="http://img.shields.io/badge/NAVER Blog-27ae60?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/woojs0505"/></a>&nbsp
-
 </p>
-
+<strong>CONTACT : <em>woojs0505@naver.com</em></strong>
 
 ![whitebear's github stats](https://github-readme-stats.vercel.app/api?username=whitebear05&theme=vue&show_icons=true&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whitebear05&theme=vue&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)<br>
