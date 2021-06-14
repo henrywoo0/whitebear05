@@ -1,6 +1,6 @@
 <div align = center>
 
-## Hi there 👋 I'm junior developer whitebear!
+## Hi, I'm whitebear
 
 <p>
 <a href="https://www.instagram.com/wbear_thelayer/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/wbear_thelayer/"/></a>&nbsp
