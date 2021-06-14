@@ -1,3 +1,5 @@
+
+
 <div align = center>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=whitebear&desc=I%20wanna%20be%20a%20great%20DEVELOPER%20and%20CEO&fontSize=80&animation=twinkling&descAlignY=30)
@@ -14,7 +16,7 @@
 
 
 <br><br><br>
-</div>
+
 
 <!--
 **whitebear05/whitebear05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -40,7 +42,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp
 </p> -->
 
-<br><br><br>
+<br><br>
 
 # 🌱 I’m currently learning ...
   - C language
@@ -48,9 +50,9 @@ Here are some ideas to get you started:
   - Python
   - HTML
   - CSS
-  - JavaScript
-  - Node.js
-  - express.js
+  JavaScript
+  Node.js
+  express.js
 
 <br><br><br>
 
@@ -59,3 +61,5 @@ Here are some ideas to get you started:
 - wbear05@dgsw.hs.kr
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&reversal=false&section=footer)
+  
+</div>
