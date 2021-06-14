@@ -1,6 +1,6 @@
 <div align = center>
 
-## Hi, I'm whitebear
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=whitebear&desc=I%20wanna%20be%20a%20great%20DEVELOPER%20and%20CEO&fontSize=80&animation=twinkling&descAlignY=30)
 
 <p>
 <a href="https://www.instagram.com/wbear_thelayer/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/wbear_thelayer/"/></a>&nbsp
@@ -57,3 +57,5 @@ Here are some ideas to get you started:
 # 📞 CONTACT
 - woojs0505@naver.com
 - wbear05@dgsw.hs.kr
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&reversal=false&section=footer)
