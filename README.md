@@ -53,6 +53,8 @@ Here are some ideas to get you started:
 ![Tech Blog Badge](http://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Tech Blog Badge](http://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white)
 ![Tech Blog Badge](http://img.shields.io/badge/Pug-A86454?style=flat-square&logo=pug&logoColor=white)
+![Tech Blog Badge](http://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white)
+  
   
 
 <br><br><br>
