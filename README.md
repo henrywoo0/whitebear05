@@ -46,16 +46,14 @@ Here are some ideas to get you started:
 
 # 🌱 I’m currently learning ...
   
-<p display=flex>
+![Tech Blog Badge](http://img.shields.io/badge/C%20Language-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![Tech Blog Badge](http://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Tech Blog Badge](http://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tech Blog Badge](http://img.shields.io/badge/JavaSCript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
+![Tech Blog Badge](http://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Tech Blog Badge](http://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white)
+![Tech Blog Badge](http://img.shields.io/badge/Pug-A86454?style=flat-square&logo=pug&logoColor=white)
   
-<img src="https://user-images.githubusercontent.com/80798929/120887008-b1929880-c62b-11eb-86f7-5f5488340e4b.png" alt="c language" height="80">
-<img src="https://user-images.githubusercontent.com/80798929/120887274-ccb1d800-c62c-11eb-8119-adf3e9cbfd86.png" alt="html5" height="80">
-<img src="https://user-images.githubusercontent.com/80798929/120887365-4cd83d80-c62d-11eb-8d38-35f31c4c39e2.png" alt="css3" height="80">
-<img src="https://user-images.githubusercontent.com/80798929/120887415-accee400-c62d-11eb-9637-0957b363a4dd.png" alt="javascript" height="80">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="node.js" width="90" height="90"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="90" height="90"/> 
-  
-</p>
 
 <br><br><br>
 
