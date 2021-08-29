@@ -58,6 +58,7 @@ Here are some ideas to get you started:
   ![Tech Blog Badge](http://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white)
   ![Tech Blog Badge](http://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
   ![Tech Blog Badge](http://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+  ![Tech Blog Badge](http://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=babel&logoColor=white)
   
 
 <br><br><br>
