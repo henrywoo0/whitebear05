@@ -5,7 +5,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=whitebear&desc=I%20wanna%20be%20a%20great%20DEVELOPER%20and%20CEO&fontSize=80&animation=twinkling&descAlignY=30)
 
 <p>
-  
 <a href="https://white-world.tistory.com/" target="_blank"><img src="http://img.shields.io/badge/Tistory-2d3436?style=flat-square&logo=t-mobile&logoColor=white&link=https://white-world.tistory.com/"/></a>&nbsp
 <a href="https://www.instagram.com/wbear_thelayer/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/wbear_thelayer/"/></a>&nbsp
 <a href="https://blog.naver.com/woojs0505/" target="_blank"><img src="http://img.shields.io/badge/NAVER Blog-27ae60?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/woojs0505"/></a>&nbsp
