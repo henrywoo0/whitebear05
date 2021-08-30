@@ -5,6 +5,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=whitebear&desc=I%20wanna%20be%20a%20great%20DEVELOPER%20and%20CEO&fontSize=80&animation=twinkling&descAlignY=30)
 
 <p>
+  
 <a href="https://white-world.tistory.com/" target="_blank"><img src="http://img.shields.io/badge/Tistory-2d3436?style=flat-square&logo=t-mobile&logoColor=white&link=https://white-world.tistory.com/"/></a>&nbsp
 <a href="https://www.instagram.com/wbear_thelayer/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/wbear_thelayer/"/></a>&nbsp
 <a href="https://blog.naver.com/woojs0505/" target="_blank"><img src="http://img.shields.io/badge/NAVER Blog-27ae60?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/woojs0505"/></a>&nbsp
@@ -32,33 +33,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<!-- # 🛠 Tech Stack ...
-<p>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp
-
-</p> -->
-
 <br><br>
 
 # 🌱 I’m currently learning ...
   
-  ![Tech Blog Badge](http://img.shields.io/badge/C%20Language-A8B9CC?style=flat-square&logo=c&logoColor=white)
-  ![Tech Blog Badge](http://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-  ![Tech Blog Badge](http://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-  ![Tech Blog Badge](http://img.shields.io/badge/JavaSCript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
-  ![Tech Blog Badge](http://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
-  ![Tech Blog Badge](http://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-  ![Tech Blog Badge](http://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-  ![Tech Blog Badge](http://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white)
-  ![Tech Blog Badge](http://img.shields.io/badge/Pug-A86454?style=flat-square&logo=pug&logoColor=white)
-  ![Tech Blog Badge](http://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white)
-  ![Tech Blog Badge](http://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-  ![Tech Blog Badge](http://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-  ![Tech Blog Badge](http://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=babel&logoColor=white)
+  ![C](http://img.shields.io/badge/C%20Language-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+  ![HTML5](http://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](http://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](http://img.shields.io/badge/JavaSCript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+  ![jQuery](http://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+  ![Git](http://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![Nodejs](http://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+  ![express](http://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
+  ![Pug](http://img.shields.io/badge/Pug-A86454?style=for-the-badge&logo=pug&logoColor=white)
+  ![Linux](http://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
+  ![MongoDB](http://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Java](http://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+  ![Babel](http://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white)
   
 
 <br><br><br>
