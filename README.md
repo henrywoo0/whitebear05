@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 <br><br>
 
-# 🌱 I’m currently learning ...
+# 🛠 TECH STACK
   
   ![C](http://img.shields.io/badge/C%20Language-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
   ![HTML5](http://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
