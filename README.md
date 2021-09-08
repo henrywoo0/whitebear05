@@ -51,7 +51,8 @@ Here are some ideas to get you started:
   ![MongoDB](http://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
   ![Java](http://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
   ![Babel](http://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white)
-  ![Babel](http://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+  ![VSCode](http://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+  ![Postman](http://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   
 
 <br><br><br>
