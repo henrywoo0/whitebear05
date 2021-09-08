@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 <br><br>
 
-# 🛠 TECH STACK
+# 💡 CAN DO
   
   ![C](http://img.shields.io/badge/C%20Language-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
   ![HTML5](http://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -53,6 +53,7 @@ Here are some ideas to get you started:
   ![Babel](http://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white)
   ![VSCode](http://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
   ![Postman](http://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  ![Figma](http://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
   
 
 <br><br><br>
