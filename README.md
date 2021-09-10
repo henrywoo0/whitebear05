@@ -60,8 +60,8 @@ Here are some ideas to get you started:
 <br><br><br>
 
 # 📞 CONTACT
-woojs0505@naver.com<br>
-wbear05@dgsw.hs.kr
+### woojs0505@naver.com<br>
+### wbear05@dgsw.hs.kr
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&reversal=false&section=footer)
   
