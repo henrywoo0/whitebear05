@@ -5,7 +5,7 @@
 <p><a href="https://hits.seeyoufarm.com" target="_blank"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwhitebear05&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>&nbsp</p>
 
 - Hi, I'm living in Daegu, Korea.
-- I'm a student in Daegu Software Meister High School.
+- I'm a student in <a href="http://www.dgsw.hs.kr/">Daegu Software Meister High School</a>.
 - I'm interested in Back-End development.
 - I belong to a school club <a href="https://b1nd.com/" target="_blank">B1ND</a> as a Back-End developer. (Intern)
 
