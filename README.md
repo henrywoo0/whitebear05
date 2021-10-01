@@ -1,11 +1,13 @@
 <div align = center>
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=whitebear&desc=I%20wanna%20be%20a%20great%20DEVELOPER%20and%20CEO&fontSize=80&animation=twinkling&descAlignY=30)
-
+  ![header](https://capsule-render.vercel.app/api?type=rect&color=0:2261A1,100:412189&text=%20%20whitebear05%20%20&fontAlign=30&fontSize=30&textBg=true&desc=I%20wanna%20be%20a%20great%20DEVELOPER%20and%20CEO&descAlign=70&descAlignY=50&fontColor=ffffff)
+  
+  <br>
   <p>
+  <a href="mailto:woojs0505@naver.com" target="_blank"><img src="http://img.shields.io/badge/naver%20mail-link-03C75A?style=for-the-badge&logo=naver&logoColor=white"/></a>&nbsp
   <a href="https://white-world.tistory.com/" target="_blank"><img src="http://img.shields.io/badge/Tistory-link-2d3436?style=for-the-badge&logo=t-mobile&logoColor=white&link=https://white-world.tistory.com/"/></a>&nbsp
   <a href="https://www.instagram.com/wbear_thelayer/" target="_blank"><img src="https://img.shields.io/badge/Instagram-link-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/wbear_thelayer/"/></a>&nbsp
-  <a href="https://blog.naver.com/woojs0505/" target="_blank"><img src="http://img.shields.io/badge/NAVER Blog-link-27ae60?style=for-the-badge&logo=Naver&logoColor=white&link=https://blog.naver.com/woojs0505"/></a>&nbsp
+  <!-- <a href="https://blog.naver.com/woojs0505/" target="_blank"><img src="http://img.shields.io/badge/NAVER Blog-link-27ae60?style=for-the-badge&logo=Naver&logoColor=white&link=https://blog.naver.com/woojs0505"/></a>&nbsp -->
   <a href="https://hits.seeyoufarm.com" target="_blank"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwhitebear05&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>&nbsp
   </p>
   
@@ -44,7 +46,7 @@
 
 <br><br>
 
-![line](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=10)
+![line](https://capsule-render.vercel.app/api?type=soft&color=0:2261A1,100:412189&height=10)
 
 <br><br>
 
