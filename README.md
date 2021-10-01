@@ -1,6 +1,6 @@
 <div align = center>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=whitebear&desc=I%20wanna%20be%20a%20great%20DEVELOPER%20and%20CEO&fontSize=80&animation=twinkling&descAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=whitebear&desc=I%20wanna%20be%20a%20great%20DEVELOPER%20and%20CEO&fontSize=80&animation=twinkling&descAlignY=30)
 
 <p>
 <a href="https://white-world.tistory.com/" target="_blank"><img src="http://img.shields.io/badge/Tistory-2d3436?style=flat-square&logo=t-mobile&logoColor=white&link=https://white-world.tistory.com/"/></a>&nbsp
@@ -45,6 +45,6 @@
 ### woojs0505@naver.com<br>
 ### wbear05@dgsw.hs.kr
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&reversal=false&section=footer)
+![line](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=10)
   
 </div>
