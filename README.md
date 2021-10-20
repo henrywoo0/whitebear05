@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:2261A1,100:412189&text=%20%20whitebear05%20%20&fontAlign=20&fontSize=30&textBg=true&desc=I%20wanna%20be%20a%20great%20BACKEND%20DEVELOPER%20and%20CEO&descAlign=70&descAlignY=50&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:2261A1,100:412189&text=%20%20whitebear05%20%20&fontAlign=20&fontSize=30&textBg=true&desc=I%20wanna%20be%20a%20great%20BACK-END%20DEVELOPER%20and%20CEO&descAlign=70&descAlignY=50&fontColor=ffffff)
 
 <br>
 
