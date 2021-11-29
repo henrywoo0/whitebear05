@@ -7,7 +7,7 @@
 - Hi, I'm living in Daegu, Korea.
 - I'm a student in <a href="http://www.dgsw.hs.kr/">Daegu Software Meister High School</a>.
 - I'm interested in Back-End development.
-- I belong to a school club <a href="https://b1nd.com/" target="_blank">B1ND</a> as a Back-End developer. (Intern)
+- I belong to a school club <a href="https://b1nd.com/" target="_blank">B1ND</a> as a Back-End developer.
 
 #### Contact & Social
   <p>
