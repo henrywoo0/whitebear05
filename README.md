@@ -14,6 +14,7 @@
   <a href="mailto:woojs0505@naver.com" target="_blank"><img src="http://img.shields.io/badge/naver%20mail-link-03C75A?style=for-the-badge&logo=naver&logoColor=white"/></a>&nbsp
   <a href="https://white-world.tistory.com/" target="_blank"><img src="http://img.shields.io/badge/Tistory-link-36B6FD?style=for-the-badge&logo=t-mobile&logoColor=white&link=https://white-world.tistory.com/"/></a>&nbsp
   <a href="https://www.instagram.com/wbear_thelayer/" target="_blank"><img src="https://img.shields.io/badge/Instagram-link-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/wbear_thelayer/"/></a>&nbsp
+  <a href="https://www.rocketpunch.com/@woojs0505" target="_blank"><img src="https://img.shields.io/badge/rocketpunch-link-4E62FF?style=for-the-badge&logoColor=white&link=https://www.rocketpunch.com/@woojs0505"/></a>&nbsp
   <!-- <a href="https://blog.naver.com/woojs0505/" target="_blank"><img src="http://img.shields.io/badge/NAVER Blog-link-27ae60?style=for-the-badge&logo=Naver&logoColor=white&link=https://blog.naver.com/woojs0505"/></a>&nbsp -->
   </p>
 
