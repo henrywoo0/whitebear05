@@ -72,5 +72,5 @@
 
 #### Stats
   
-  ![whitebear's github stats](https://github-readme-stats.vercel.app/api?username=whitebear05&theme=dark&show_icons=true&hide_border=true)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whitebear05&theme=dark&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=whitebear05&theme=dark&show_icons=true&hide_border=true" alt="my github stats" width=40% />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitebear05&theme=dark&layout=compact&hide_border=true" alt="my github top langs" />
