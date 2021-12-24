@@ -71,6 +71,8 @@
 ![line](https://capsule-render.vercel.app/api?type=soft&color=0:2261A1,100:412189&height=10)
 
 #### Stats
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=whitebear05&theme=dark&show_icons=true&hide_border=true" alt="my github stats" width=40% />
+
+<span>
+  <img src="https://github-readme-stats.vercel.app/api?username=whitebear05&theme=dark&show_icons=true&hide_border=true" alt="my github stats" width=50% />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitebear05&theme=dark&layout=compact&hide_border=true" alt="my github top langs" />
+</span>
