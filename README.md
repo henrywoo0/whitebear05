@@ -30,8 +30,6 @@
   ![TypeScript](http://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
   ![Python](http://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![C](http://img.shields.io/badge/C%20Language-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-  ![HTML5](http://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](http://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   
 #### Framework & Platform & Library
   ![SpringBoot](http://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -39,11 +37,6 @@
   ![express](http://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
   ![Nestjs](http://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
   ![Pug](http://img.shields.io/badge/Pug-A86454?style=for-the-badge&logo=pug&logoColor=white)
-  ![NPM](http://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-  ![yarn](http://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
-  <!-- ![jQuery](http://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) -->
-  <!-- ![Android](http://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) -->
-  
   
 #### Database
   ![MongoDB](http://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -53,20 +46,11 @@
   ![VSCode](http://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
   ![IntelliJ](http://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
   ![Git](http://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](http://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
   ![Postman](http://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   ![Figma](http://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
   ![PhotoShop](http://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
   ![Illustrator](http://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
   ![PremierePro](http://img.shields.io/badge/PremierePro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
-  
-#### Hosting
-  ![AWS](http://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-  
-#### Operating System
-  ![Linux](http://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
-  ![Ubuntu](http://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-  ![Windows](http://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
   
 <br>
 
