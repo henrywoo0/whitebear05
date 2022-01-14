@@ -36,7 +36,6 @@
   ![Nodejs](http://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
   ![express](http://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
   ![Nestjs](http://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-  ![Pug](http://img.shields.io/badge/Pug-A86454?style=for-the-badge&logo=pug&logoColor=white)
   
 #### Database
   ![MongoDB](http://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -49,7 +48,6 @@
   ![Postman](http://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   ![Figma](http://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
   ![PhotoShop](http://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-  ![Illustrator](http://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
   ![PremierePro](http://img.shields.io/badge/PremierePro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
   
 <br>
