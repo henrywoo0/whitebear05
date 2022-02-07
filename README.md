@@ -41,15 +41,6 @@
   ![MongoDB](http://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
   ![MySQL](http://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
   
-#### Tool
-  ![VSCode](http://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-  ![IntelliJ](http://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-  ![Git](http://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![Postman](http://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-  ![Figma](http://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-  ![PhotoShop](http://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-  ![PremierePro](http://img.shields.io/badge/PremierePro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
-  
 <br>
 
 ![line](https://capsule-render.vercel.app/api?type=soft&color=0:2261A1,100:412189&height=10)
