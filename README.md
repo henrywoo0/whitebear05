@@ -27,9 +27,9 @@
 #### Language
   ![Java](http://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
   ![JavaScript](http://img.shields.io/badge/JavaSCript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-  <!-- ![TypeScript](http://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) -->
   ![Python](http://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![C](http://img.shields.io/badge/C%20Language-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+  <!-- ![TypeScript](http://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) -->
   
 #### Framework & Platform & Library
   ![SpringBoot](http://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
