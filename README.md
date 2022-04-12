@@ -31,11 +31,11 @@
   ![C](http://img.shields.io/badge/C%20Language-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
   <!-- ![TypeScript](http://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) -->
   
-#### Framework & Platform & Library
+#### Framework
   ![SpringBoot](http://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
   ![Nodejs](http://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
   ![express](http://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
-  <!-- ![Nestjs](http://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) -->
+  ![Nestjs](http://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
   
 #### Database
   ![MongoDB](http://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
