@@ -49,4 +49,5 @@
 <span>
   <img src="https://github-readme-stats.vercel.app/api?username=whitebear05&theme=dark&show_icons=true&hide_border=true" alt="my github stats" width=50% />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitebear05&theme=dark&layout=compact&hide_border=true" alt="my github top langs" />
+  <img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=wjs0518" alt="my solved.ac stat"/>
 </span>
