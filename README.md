@@ -1,4 +1,4 @@
-## 안녕하세요, 우준성입니다. 🧑‍💻🧑‍🎨
+## Hi, I'm Junseong Woo 🧑‍💻🧑‍🎨
 
 <br>
 
@@ -18,4 +18,3 @@
   <a href="https://www.rocketpunch.com/@woojs0505" target="_blank"><img src="https://img.shields.io/badge/rocketpunch-link-4E62FF?style=for-the-badge&logo=rocketpunch&logoColor=white&link=https://www.rocketpunch.com/@woojs0505"/></a>&nbsp
   <!-- <a href="https://blog.naver.com/woojs0505/" target="_blank"><img src="http://img.shields.io/badge/NAVER Blog-link-27ae60?style=for-the-badge&logo=Naver&logoColor=white&link=https://blog.naver.com/woojs0505"/></a>&nbsp -->
   </p>
-<br>
