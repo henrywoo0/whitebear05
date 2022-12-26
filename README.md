@@ -8,7 +8,7 @@
 - I believe in the potential of continuous effort.
 - I'm interested in Back-End development.
 - I'm a student in <a href="http://www.dgsw.hs.kr/">Daegu Software Meister High School</a>.
-- I belong to a school club <a href="https://b1nd.com/" target="_blank">B1ND</a> as a Back-End developer.
+- I'm working at a school club <a href="https://b1nd.com/" target="_blank">B1ND</a> as a Back-End developer.
 
 #### Contact & Social
   <p>
