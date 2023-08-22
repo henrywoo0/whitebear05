@@ -14,6 +14,6 @@
   <p>
   <a href="https://white-world.tistory.com/" target="_blank"><img src="http://img.shields.io/badge/Blog-link-36B6FD?style=for-the-badge&logo=t-mobile&logoColor=white&link=https://white-world.tistory.com/"/></a>&nbsp
   <a href="https://www.instagram.com/henrywoo0/" target="_blank"><img src="https://img.shields.io/badge/Instagram-link-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/henrywoo0/"/></a>&nbsp
-  <a href=https://www.linkedin.com/in/woojunseong/" target="_blank"><img src="https://img.shields.io/badge/linkedin-link-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/woojunseong/"/></a>&nbsp
+  <a href="https://www.linkedin.com/in/woojunseong/" target="_blank"><img src="https://img.shields.io/badge/linkedin-link-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/woojunseong/"/></a>&nbsp
   <a href="https://www.rocketpunch.com/@woojs0505" target="_blank"><img src="https://img.shields.io/badge/rocketpunch-link-4E62FF?style=for-the-badge&logo=rocketpunch&logoColor=white&link=https://www.rocketpunch.com/@woojs0505"/></a>&nbsp
   </p>
