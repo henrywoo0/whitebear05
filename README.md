@@ -4,7 +4,6 @@
 
 <p><a href="https://hits.seeyoufarm.com" target="_blank"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwhitebear05&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>&nbsp</p>
 
-- My portfolio : [Click here!](https://velog.velcdn.com/images/whitebear/post/d7e4c24d-9758-47e3-a641-44ba493e0755/image.pdf)
 - I believe in the potential of continuous effort.
 - I'm interested in Back-End development.
 - I'm a student in <a href="http://www.dgsw.hs.kr/">Daegu Software Meister High School</a>.
